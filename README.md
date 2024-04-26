@@ -1,11 +1,10 @@
 # Python Projects
 
 ## Table of Contents:
-1. [BMI Prediction and Visualization Tool](#BMI-Prediction-and-Visualization-Tool)
+1. [BMI Analysis and ML project](#BMI-Analysis-and-ML-project)
 2. [BMI Calculator](#BMI-Calculator)
 
-# Project Title: BMI Prediction and Visualization Tool
-
+# Project Title: BMI Analysis and ML project
 ## Project Description:
 This Python project provides an in-depth analysis of Body Mass Index (BMI) based on height, weight, and gender. It encompasses various data analysis techniques, including data preprocessing, exploratory data analysis, visualization, machine learning modeling, and prediction. The primary objective of this project is to offer insights into BMI distribution and its implications for health, as well as providing a predictive tool for assessing an individual's health status based on their BMI.
 
